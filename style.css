@@ -111,18 +111,17 @@ span{
 }
 
 #PERFIL{
-  margin-left:2%;
+  margin-left:3%;
   border-radius: 180px;
-  margin: 3.9%;
 }
 
 #SOFT{
-  margin: 4%;
+  margin: 3%;
 }
 
 #HARD{
   
-  margin: 7%;
+  margin:3%;
 }
 
 #SOBRETEXTAO{
@@ -133,10 +132,14 @@ span{
   line-height: 30px;
   text-align: justify;
   min-width: 300px;
-  position: relative;
   width: 80%;
   text-align: justify;
   
+}
+
+.secaoSobre{
+  max-width: 98%;
+  min-width: 350px;
 }
 
 
